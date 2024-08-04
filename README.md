@@ -1,4 +1,4 @@
-Gym-System
+Gym-System.
 Welcome to the Gym-System API project! This API is designed to manage the attendance of trainees in the Gym according to their subscription category. 
  
 The project relies on several dependencies and libraries to function. Some of the key dependencies include:
