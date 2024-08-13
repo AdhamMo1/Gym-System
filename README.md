@@ -12,6 +12,8 @@ Microsoft.AspNetCore.Identity,
 Microsoft.Extensions.DependencyInjection,
 Unit Testing: xUnit , moq
 
+-Clean Architecture, Domain Centric Design, Repository pattern
+
 
 Skills: C# · Language Integrated Query (LINQ) · Entity Framework (EF) Core · ASP.NET Core · ASP.NET Web API · Unit Testing
 
